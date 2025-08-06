@@ -55,7 +55,7 @@ header p{
     color: var(--cor0);
     text-align: center;
     max-width: 600px;
-    padding: 0 20px 0 20px;
+    padding: 0 20px 50px 20px;
     margin: auto;
     font-size: 1.2em;
     font-family: var(--fonte-padrao);
